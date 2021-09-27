@@ -4,9 +4,9 @@
     "url": "https://www.kosilum.com",
     "icon": "https://favicons.githubusercontent.com/www.kosilum.com",
     "slug": "kosilum-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 2669,
     "timeMonth": 2462,
     "timeYear": 2462,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-27": 0
+    }
   },
   {
     "name": "kosilum.com-http",
