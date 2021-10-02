@@ -10,11 +10,11 @@
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
-    "time": 2499,
-    "timeDay": 2579,
-    "timeWeek": 2704,
-    "timeMonth": 2525,
-    "timeYear": 2499,
+    "time": 2505,
+    "timeDay": 2731,
+    "timeWeek": 2719,
+    "timeMonth": 2547,
+    "timeYear": 2505,
     "dailyMinutesDown": {
       "2021-09-27": 22
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1607,
-    "timeDay": 1784,
-    "timeWeek": 1637,
-    "timeMonth": 1595,
-    "timeYear": 1607,
+    "time": 1611,
+    "timeDay": 1757,
+    "timeWeek": 1657,
+    "timeMonth": 1608,
+    "timeYear": 1611,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.92%",
-    "time": 1525,
-    "timeDay": 1600,
-    "timeWeek": 1568,
-    "timeMonth": 1547,
-    "timeYear": 1525,
+    "time": 1528,
+    "timeDay": 1650,
+    "timeWeek": 1585,
+    "timeMonth": 1558,
+    "timeYear": 1528,
     "dailyMinutesDown": {
       "2021-09-11": 39
     }
@@ -63,16 +63,16 @@
     "icon": "https://favicons.githubusercontent.com/kosilight.uk",
     "slug": "kosilight-uk-http",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "99.92%",
-    "time": 1169,
-    "timeDay": 1174,
-    "timeWeek": 1218,
-    "timeMonth": 1186,
-    "timeYear": 1169,
+    "uptimeYear": "99.93%",
+    "time": 1172,
+    "timeDay": 1289,
+    "timeWeek": 1239,
+    "timeMonth": 1193,
+    "timeYear": 1172,
     "dailyMinutesDown": {
       "2021-09-11": 37
     }
