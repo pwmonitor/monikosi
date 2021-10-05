@@ -42,10 +42,10 @@
     "url": "https://kosilight.uk",
     "icon": "https://favicons.githubusercontent.com/kosilight.uk",
     "slug": "kosilight-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.93%",
     "time": 1537,
@@ -54,6 +54,7 @@
     "timeMonth": 1574,
     "timeYear": 1537,
     "dailyMinutesDown": {
+      "2021-10-05": 1,
       "2021-09-11": 39
     }
   },
@@ -62,7 +63,7 @@
     "url": "http://kosilight.uk",
     "icon": "https://favicons.githubusercontent.com/kosilight.uk",
     "slug": "kosilight-uk-http",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -74,6 +75,7 @@
     "timeMonth": 1206,
     "timeYear": 1176,
     "dailyMinutesDown": {
+      "2021-10-05": 0,
       "2021-09-11": 37
     }
   }
