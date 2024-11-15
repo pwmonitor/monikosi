@@ -4,18 +4,19 @@
     "url": "https://www.kosilum.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.kosilum.com.ico",
     "slug": "kosilum-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1685,
+    "time": 1686,
     "timeDay": 1683,
     "timeWeek": 1869,
     "timeMonth": 1800,
     "timeYear": 1721,
     "dailyMinutesDown": {
+      "2024-11-15": 1,
       "2024-05-07": 55
     }
   },
@@ -24,10 +25,10 @@
     "url": "http://www.kosilum.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.kosilum.com.ico",
     "slug": "kosilum-com-http",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 997,
@@ -36,6 +37,7 @@
     "timeMonth": 1069,
     "timeYear": 1038,
     "dailyMinutesDown": {
+      "2024-11-15": 1,
       "2024-10-30": 23,
       "2024-05-07": 54
     }
@@ -45,10 +47,10 @@
     "url": "https://kosilight.uk",
     "icon": "https://icons.duckduckgo.com/ip3/kosilight.uk.ico",
     "slug": "kosilight-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1191,
@@ -57,6 +59,7 @@
     "timeMonth": 1207,
     "timeYear": 1188,
     "dailyMinutesDown": {
+      "2024-11-15": 1,
       "2024-05-07": 53,
       "2024-03-23": 17
     }
@@ -66,9 +69,9 @@
     "url": "http://kosilight.uk",
     "icon": "https://icons.duckduckgo.com/ip3/kosilight.uk.ico",
     "slug": "kosilight-uk-http",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
@@ -78,6 +81,7 @@
     "timeMonth": 640,
     "timeYear": 686,
     "dailyMinutesDown": {
+      "2024-11-15": 0,
       "2024-10-30": 22,
       "2024-05-07": 52,
       "2024-03-23": 17
