@@ -4,13 +4,13 @@
     "url": "https://www.kosilum.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.kosilum.com.ico",
     "slug": "kosilum-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "85.70%",
-    "uptimeWeek": "97.96%",
-    "uptimeMonth": "99.53%",
+    "uptimeDay": "84.83%",
+    "uptimeWeek": "97.83%",
+    "uptimeMonth": "99.50%",
     "uptimeYear": "99.87%",
-    "time": 1795,
+    "time": 1794,
     "timeDay": 25586,
     "timeWeek": 7673,
     "timeMonth": 3160,
@@ -22,7 +22,7 @@
       "2026-06-20": 76,
       "2026-06-22": 130,
       "2026-06-21": 8,
-      "2026-07-29": 206
+      "2026-07-29": 219
     }
   },
   {
@@ -30,11 +30,11 @@
     "url": "http://www.kosilum.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.kosilum.com.ico",
     "slug": "kosilum-com-http",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.93%",
     "time": 1174,
     "timeDay": 48878,
@@ -46,7 +46,8 @@
       "2025-08-12": 73,
       "2026-03-23": 32,
       "2026-04-12": 32,
-      "2026-06-20": 76
+      "2026-06-20": 76,
+      "2026-07-29": 3
     }
   },
   {
