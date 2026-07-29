@@ -4,17 +4,17 @@
     "url": "https://www.kosilum.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.kosilum.com.ico",
     "slug": "kosilum-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "91.85%",
-    "uptimeWeek": "98.84%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "99.88%",
-    "time": 1796,
-    "timeDay": 49962,
-    "timeWeek": 8597,
-    "timeMonth": 3225,
-    "timeYear": 1796,
+    "uptimeDay": "85.70%",
+    "uptimeWeek": "97.96%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.87%",
+    "time": 1795,
+    "timeDay": 25586,
+    "timeWeek": 7673,
+    "timeMonth": 3160,
+    "timeYear": 1794,
     "dailyMinutesDown": {
       "2025-08-13": 169,
       "2025-08-12": 73,
@@ -22,7 +22,7 @@
       "2026-06-20": 76,
       "2026-06-22": 130,
       "2026-06-21": 8,
-      "2026-07-29": 117
+      "2026-07-29": 206
     }
   },
   {
