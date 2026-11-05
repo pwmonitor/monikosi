@@ -4,23 +4,24 @@
     "url": "https://www.kosilum.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.kosilum.com.ico",
     "slug": "kosilum-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 1750,
-    "timeDay": 984,
-    "timeWeek": 1373,
-    "timeMonth": 1244,
-    "timeYear": 1842,
+    "time": 1787,
+    "timeDay": 10188,
+    "timeWeek": 3626,
+    "timeMonth": 1811,
+    "timeYear": 1890,
     "dailyMinutesDown": {
       "2026-04-12": 33,
       "2026-06-20": 76,
       "2026-06-22": 130,
       "2026-06-21": 8,
-      "2026-07-29": 279
+      "2026-07-29": 279,
+      "2026-11-05": 2
     }
   },
   {
@@ -28,22 +29,23 @@
     "url": "http://www.kosilum.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.kosilum.com.ico",
     "slug": "kosilum-com-http",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1293,
-    "timeDay": 887,
-    "timeWeek": 1055,
-    "timeMonth": 1011,
-    "timeYear": 1487,
+    "time": 1331,
+    "timeDay": 10245,
+    "timeWeek": 3373,
+    "timeMonth": 1592,
+    "timeYear": 1536,
     "dailyMinutesDown": {
       "2026-03-23": 32,
       "2026-04-12": 32,
       "2026-06-20": 76,
-      "2026-07-29": 63
+      "2026-07-29": 63,
+      "2026-11-05": 1
     }
   },
   {
@@ -51,19 +53,20 @@
     "url": "https://kosilight.uk",
     "icon": "https://icons.duckduckgo.com/ip3/kosilight.uk.ico",
     "slug": "kosilight-uk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1376,
-    "timeDay": 773,
-    "timeWeek": 1175,
-    "timeMonth": 1251,
-    "timeYear": 1454,
+    "time": 1374,
+    "timeDay": 407,
+    "timeWeek": 1033,
+    "timeMonth": 1213,
+    "timeYear": 1451,
     "dailyMinutesDown": {
-      "2026-04-12": 32
+      "2026-04-12": 32,
+      "2026-11-05": 0
     }
   },
   {
@@ -71,21 +74,22 @@
     "url": "http://kosilight.uk",
     "icon": "https://icons.duckduckgo.com/ip3/kosilight.uk.ico",
     "slug": "kosilight-uk-http",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1176,
-    "timeDay": 1023,
-    "timeWeek": 1592,
-    "timeMonth": 1681,
-    "timeYear": 1366,
+    "time": 1175,
+    "timeDay": 524,
+    "timeWeek": 1396,
+    "timeMonth": 1629,
+    "timeYear": 1362,
     "dailyMinutesDown": {
       "2026-04-12": 31,
       "2026-06-22": 24,
-      "2026-06-21": 7
+      "2026-06-21": 7,
+      "2026-11-05": 0
     }
   }
 ]
